@@ -1,0 +1,12 @@
+p {
+    display: flex;
+    text-align: left;
+    border: 1px solid black;
+    padding: 30px;
+    width: 400px;
+    margin: 0; 
+}
+
+p:hover {
+    background: rgb(224, 105, 61);
+}
